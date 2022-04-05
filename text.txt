@@ -1,2 +1,4 @@
+I make a change for commit
+
 This is my new try for git
 
